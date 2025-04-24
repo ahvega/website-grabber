@@ -42,7 +42,7 @@ A powerful Python script that recursively downloads entire websites while preser
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/yourusername/website-grabber.git
+   git clone https://github.com/ahvega/website-grabber.git
    cd website-grabber
    ```
 
